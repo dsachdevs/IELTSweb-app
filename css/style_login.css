@@ -1,0 +1,25 @@
+.background_saffron{
+/*background-color: #FBAB03;*/
+background-color: rgba(251,171,3,1);
+}
+
+.background_black{
+	background-color: #000000;
+}
+
+.form_shadow{
+box-shadow: 2px 5px 9px 0px rgba(0,0,0,0.75);
+}
+
+.border_rounded{
+
+	border-radius: 21px;
+}
+
+.btn_blk_saff{
+border-style: solid;
+border-width: 0 0px 4px 0px;
+border-color: #FBAB03;
+border-radius: 7px 7px 19px 7px;
+
+}
